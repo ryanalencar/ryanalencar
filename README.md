@@ -29,8 +29,13 @@
 </a>
 </p>
 
-<br/>
+
+---
 
 ### 📊 My Stats
 ![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=ryanalencar&count_private=true&show_icons=true&theme=omni)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanalencar&layout=compact&theme=omni)
+
+---
+
+> *“The beautiful thing about learning is that nobody can take it away from you.”* – B.B. King
