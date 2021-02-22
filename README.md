@@ -30,4 +30,8 @@
 </p>
 
 <br/>
-![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=ryanalencar&count_private=true&show_icons=true&theme=omni)
+
+### 📊 My Stats
+<div align=”center”>
+    ![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=ryanalencar&count_private=true&show_icons=true&theme=omni)
+</div>
