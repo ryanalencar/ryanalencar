@@ -1,16 +1,19 @@
-### Hi there 👋
+## What's up Dev? How are you? 👋
 
-<!--
-**ryanalencar/ryanalencar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤓 Who am I?
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://blog.rocketseat.com.br/author/thiago/">
+        <img 
+            style="border-radius: 50%;" 
+            src="https://avatars.githubusercontent.com/u/31630354?s=400&u=2c702d715553d4d0f471064b1511fc9324417273&v=4" 
+            width="120px;" 
+            alt="Foto">
+        <br/>
+        <sub><b>Ryan Alencar🖖</b></sub>
+    </a>
+</p>
+</br>
+<h6 align="center">
+    My name is Ryan Alencar. I'm 18 years old and I'm from Fortaleza, CE - Brazil. I am a javascript full-stack developer. Enthusiast of technology, games, and security information stuff. Passionate about helping to solve problems with simple and efficient solutions.
+</h6>
