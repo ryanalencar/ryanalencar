@@ -28,3 +28,6 @@
   <img alt="Whats App - Ryan Alencar" src="https://img.shields.io/badge/-Ryan%20Alencar-%2325D366?&logo=whatsapp&logoColor=white"/>
 </a>
 </p>
+
+<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanalencar&count_private=true)
