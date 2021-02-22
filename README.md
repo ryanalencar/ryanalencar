@@ -3,7 +3,6 @@
 ### 😎 Who am I?
 
 <p align="center">
-    
     <img 
         style="border-radius: 50%;" 
         src="https://avatars.githubusercontent.com/u/31630354?s=400&u=2c702d715553d4d0f471064b1511fc9324417273&v=4" 
@@ -11,7 +10,6 @@
         alt="Foto">
     <br/>
     <sub><b>Ryan Alencar🖖</b></sub>
-   
 </p>
 </br>
 <h6 align="center">
