@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=ryanalencar&label=PROFILE+VIEWS&color=blueviolet)
 ## What's up Dev? How are you? 👋
 
 ### 😎 Who am I?
