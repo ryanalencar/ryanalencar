@@ -30,6 +30,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ryanalencar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ryanalencar" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanalencar&show_icons=true&theme=dracula&bg_color=121212&locale=en&layout=compact" alt="ryanalencar" /></p>
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanalencar&show_icons=true&theme=dracula&bg_color=121212&locale=en&layout=compact" alt="ryanalencar" /></p>
+  
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanalencar&show_icons=true&theme=dracula&bg_color=121212&cache_seconds=1800&locale=en" alt="ryanalencar" /></p>
+  <div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanalencar&show_icons=true&theme=dracula&bg_color=121212&hide_border=true&cache_seconds=1800&locale=en" alt="ryanalencar" /></p>
+
