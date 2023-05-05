@@ -15,7 +15,7 @@
 
 * Backend:  `Typescript` - `Node.js` - `GraphQL` - `NestJS` - `Prisma` - `Express.js` - `TypeORM` - `Sequelize`
 
-* Mobile: `React Native` - `Expo` - `Flutter`
+* Mobile: `React Native` - `Expo`
 
 * Frontend: `React.js` - `Next.js` - `Vite` - `ChakraUI` - `Styled-Components` - `Emotion` - `Framer Motion`
 
