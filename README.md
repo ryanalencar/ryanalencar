@@ -3,8 +3,6 @@
 
 - 👯 My dream is to collaborate on **Projects that involve international cooperation 🌍**
 
-- 📝 Check out my posts: **[instagram.com/ryanalencar.dev](https://instagram.com/ryanalencar.dev)**
-
 - ✍️ Write me an email: **ryanalencar.dev@gmail.com**
 
 - 📄 Know about my experiences **[linkedin.com/in/ryanalencar/](https://www.linkedin.com/in/ryanalencar/)**
